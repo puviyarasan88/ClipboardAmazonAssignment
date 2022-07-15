@@ -8,7 +8,8 @@ import lombok.Getter;
 @Getter
 public class TestData {
 
-    private String itemName;
-    private int quantity;
-    private String titleToVerify;
+    private String MainMenu;
+    private String SubMenu;
+    private String Filter;
+    private String NthLargestNum;
 }

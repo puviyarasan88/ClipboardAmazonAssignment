@@ -1,7 +1,7 @@
 package com.assignment.facade;
 
+import com.assignment.pages.MenuComponent;
 import com.assignment.pages.ProductsDisplayPage;
-import com.assignment.pages.pagecomponents.MenuComponent;
 
 public final class NavigateToProductPageFacade {
     private MenuComponent menucomponent;

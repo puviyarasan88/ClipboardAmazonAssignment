@@ -6,10 +6,9 @@
     </listeners>
     <test verbose="1" thread-count="1" parallel="methods" name="C:/Users/testi/selenium-project/MasterAutomationFramework/AmazonAssignment">
         <classes>
-            <class name="com.assignment.tests.CheckoutPageTests">
+            <class name="com.assignment.tests.ValidateAbtSectionInProductPageTest">
                 <methods>
-                    <include name="verifyTotalCartPriceInCheckoutPageTest"/>
-                    <include name="verifyUserNavigatingToLoginPageOnCheckout"/>
+                    <include name="verifyAbtSectionInSecondHighestTvItem"/>
                 </methods>
             </class>
         </classes>
